@@ -2,5 +2,6 @@ psycopg2-binary
 psycopg2
 django
 gunicorn
+whitenoise
 django-heroku
 django-crispy-forms
